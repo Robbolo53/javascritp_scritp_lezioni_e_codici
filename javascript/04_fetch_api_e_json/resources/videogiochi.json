@@ -1,0 +1,50 @@
+[
+	{
+		"id":1,
+		"name": "Assassin's creed",
+		"category":"action",
+		"price":"20.99"
+	},
+	{
+		"id":2,
+		"name": "Diablo 4",
+		"category":"rpg",
+		"price":"99.89"
+	},{
+		"id":3,
+		"name": "Gran Turismo",
+		"category":"racing",
+		"price":"69.99"
+	},{
+		"id":4,
+		"name": "Zelda",
+		"category":"adventure",
+		"price":"59.99"
+	},{
+		"id":5,
+		"name": "call of duty",
+		"category":"fps",
+		"price":"10.50"
+	},{
+		"id":6,
+		"name": "tetris",
+		"category":"classic",
+		"price":"9.99"
+	},
+	{
+		"id":7,
+		"name": "mincraft",
+		"category":"sandbox",
+		"price":"29.00"
+	},{
+		"id":8,
+		"name": "fifa 23",
+		"category":"sport",
+		"price":"70.99"
+	},{
+		"id":9,
+		"name": "Tekken",
+		"category":"fighting",
+		"price":"10.89"
+	}
+]
